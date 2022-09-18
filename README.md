@@ -1,4 +1,4 @@
-# library_management_system
+# Library Management System
 SQL project creating a library management database and implementing basic queries
 
 ## Description
